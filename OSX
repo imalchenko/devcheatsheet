@@ -1,1 +1,9 @@
 Shift + Cmd + Del : permanently clear the garbage can
+CMD + Space: start typing the name of the application + Enter to run
+
+Ctrl + CMD + Space: Change input language
+
+Space on a file: will do a quick-preview of file contents without opening it
+
+CMD + Shift + 4: take a screenshot, after specifying the capture area
+CMD + Shift + 3: desktop screenshot
