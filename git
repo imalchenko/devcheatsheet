@@ -1,0 +1,4 @@
+git rm --cached <<-- this will remove a previously tracked file from the repo, but not from the working directory
+git update-index --assume-unchanged <file> <<-- this will assume that the file is not changing and won't update it
+https://stackoverflow.com/questions/936249/how-to-stop-tracking-and-ignore-changes-to-a-file-in-git
+
